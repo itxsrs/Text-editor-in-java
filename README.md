@@ -1,1 +1,1 @@
-# Text-editor-using-java
+The text editor that i have created using Java is a user-friendly application with basic features. Such as opening recent files, saving files, clearing the editor, and renaming files. The GUI is designed to be intuitive and easy to use, with clear options for file management.
